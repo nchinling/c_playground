@@ -8,10 +8,10 @@ int main()
     // Output the value of myAge (43)
     printf("The age is: %d\n", myAge);
 
-    // Output the memory address of myAge (0x7ffe5367e044)
+    // Output the memory address of myAge
     printf("The memory address is: %p\n", &myAge);
 
-    // Output the memory address of myAge with the pointer (0x7ffe5367e044)
+    // Output the memory address of myAge with the pointer
     printf("The pointer is: %p\n", ptr);
 
     // print value of myAge using dereferencing operator.
