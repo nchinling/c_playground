@@ -9,6 +9,8 @@ Playground to learn and experiment with C concepts. It has the following folders
 
 4. structures 
 
+5. memory (dynamic memory) - allocation with calloc/malloc
+
 
 ## To compile and run
 1. gcc -o <desired_output_file_name> <file_name.c>
